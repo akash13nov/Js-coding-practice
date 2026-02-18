@@ -1,0 +1,255 @@
+<html>
+<head>
+<title>Js practice</title>
+</head>
+<meta charset="UTF-8" />
+<body style="background-color: black;color:#fff;">
+	<h1 style="text-align: center;font-size: 4rem;">JavaScript Practice</h1>
+<script>
+	/* 1.Check if a number is even or odd.
+		for(let i=1; i<=20; i++) {
+			if(i%2 === 0) {
+				console.log(`Even number : ${i}`);
+			} else {
+				console.log(`Odd number : ${i}`);
+			}
+		}
+	*/
+
+	/* 2.Check if a number is positive, negative, or zero.
+		let num = +prompt("Enter a number");
+			if(num < 0) {
+				console.log(`${num} is Negative number`);
+			} else if (num > 0) {
+				console.log(`${num} is Positive number`);
+			} else {
+				console.log(`${num} is zero`);
+			}
+	*/
+
+	/* 3.Find the largest of two numbers.
+		let num = +prompt("Enter first number");
+		let num2 = +prompt("Enter second number");
+			if(num > num2) {
+				console.log(`${num} is largest`)
+			} else if(num2 > num) {
+				console.log(`${num2} is largest`)
+			} 
+			else {
+				console.log(`${num} is equal`)
+			}
+	*/
+
+	/* 	4.	Find the largest of three numbers.
+		let num1 = +prompt("Enter a number");
+		let num2 = +prompt("Enter a number");
+		let num3 = +prompt("Enter a number");
+			if(num1 > num2 && num1 > num3) {
+				console.log(`${num1} is largest`);
+			} else if(num2 > num1 && num2 > num3) {
+				console.log(`${num2} is largest`);
+			} else if(num3 > num1 && num3 > num2) {
+				console.log(`${num3} is largest`);
+			} else {
+				console.log(`All numbers are equal`);
+			}
+	*/
+
+	/* 	5.	Check if a number is divisible by 5 and 11.
+		let num = +prompt("Enter a number");
+			if(num % 5 === 0 && num % 11 === 0) {
+				console.log(`${num} is divisible by 5 and 11`);
+			} else {
+				console.log(`${num} is not divisible by 5 and 11`);
+			}
+	*/
+
+	/* 	6.	Check if a given year is a leap year.
+		let year = +prompt("Enter the year");
+		//if(year%4 === 0) 
+			if((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0){
+				console.log(`${year} is leap year`);
+			} else {
+				console.log(`${year} is not a leap year`);
+			}
+	*/
+
+	/*	7.	Check if a person is eligible to vote (age ≥ 18).
+		let person = +prompt("Enter a number");
+			if(person >= 18) {
+				console.log(`person is eligible to vote`);
+			} else {
+				console.log(`person is  not allowed to vote`);
+			}
+	*/
+
+	/* 	8.	Use a ternary operator to find if a number is even or odd.
+		let number = +prompt("Enter a num");
+		number%2 === 0 ? console.log(`${number} is Even`) : console.log(`${number} is Odd`)
+	*/
+
+	/* 	9.	Write a switch case to print day name for given day number (1–7).
+		let day = 5;
+		switch (day) {
+		  case 1:
+		    console.log("Monday");
+		    break;
+
+		  case 2:
+		    console.log("Tuesday");
+		    break;
+
+		  case 3:
+		    console.log("Wednesday");
+		    break;
+
+		  case 4:
+		    console.log("Thursday");
+		    break;
+
+		  case 5:
+		    console.log("Friday");
+		    break;
+
+		  default:
+		    console.log("Weekend!!!");
+		}
+	*/
+
+	/* 	10.	Write a switch case to print month name for given month number (1–12).
+		let month = 11;
+		switch(month){
+			case 1:
+			console.log("January");
+			break;
+
+			case 2:
+			console.log("February");
+			break;
+
+			case 3:
+			console.log("March");
+			break;
+
+			case 4:
+			console.log("April");
+			break;
+
+			case 5:
+			console.log("May");
+			break;
+
+			case 6:
+		    console.log("June");
+		    break;
+
+		  	case 7:
+		    console.log("July");
+		    break;
+
+		  	case 8:
+		    console.log("August");
+		    break;
+
+		  	case 9:
+		    console.log("September");
+		    break;
+
+		  	case 10:
+		    console.log("October");
+		    break;
+
+		  	case 11:
+		    console.log("November");
+		    break;
+
+		  	case 12:
+		    console.log("December");
+		    break;
+			default:
+			console.log("Invalid month number! Please enter 1 to 12.");
+		}
+	*/
+
+	/* 	11.	Check if a character is vowel or consonant.
+		let vowel = prompt("Enter a character");
+			if (vowel) {
+				vowel = vowel.toLowerCase();
+			    let regexWord = /^[aeiou]$/;
+				  if (regexWord.test(vowel)) {
+				    console.log("Vowel");
+				  } else {
+				    console.log("Consonant or invalid input");
+				  }
+			} else {
+				console.log("No input provided");
+			}		
+	*/
+
+	/*  12.	Check if a given string is palindrome or not.
+		let word = prompt("Enter the word");
+		let reverseWord = word.split("").reverse().join("");
+			if(word === reverseWord) {
+				console.log("word is palindrome");
+			} else {
+				console.log("not palindrome");
+			}
+	*/
+
+	/*  13.	Implement a grading system based on marks using if-else-if.
+		let marks = +prompt("Enter the marks");
+			if(marks >= 90 ) {
+				console.log("Grade A");
+			} else if (marks >=80) {
+				console.log("Grade B");
+			} else if(marks >=70) {
+				console.log("Grade C");
+			} else if(marks >=60) {
+				console.log("Grade D");
+			} else {
+				console.log("Fail");
+			}
+	*/
+
+	/*  14.	Convert nested if-else statements into a ternary chain.
+		let marks = +prompt("Enter the marks");
+		marks >=90 ? console.log("Grade A") : marks >=80 
+		? console.log("Grade B") : marks >=70 
+		? console.log("Grade C") : marks >=60 
+		? console.log("Grade D") : console.log("Fail");
+	*/
+
+	// 15.	Check if an alphabet is uppercase or lowercase using ASCII comparison.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</body>
+</html>
