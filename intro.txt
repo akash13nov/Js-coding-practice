@@ -1,0 +1,395 @@
+My name is Akash Sharma.
+I am from noida.		
+I am postgraduate.
+I have around 6.5 years exp  as a UI developer. (working with TBH)
+my role and responsibility are :
+XD,figma to HTML, HTML developement.
+Builds websites using HTML, css,jQuery, js and reactjs.
+create web application front end as per design.And RWd for mobile tab and other small devices.
+
+I’ve recently worked hands-on with React where I built components, handled state, API integration, and routing. I’m actively using React and very comfortable with core concepts.
+
+**So my major work when Design team provide us VDs
+we basically convert those VDs in web application with the help of frontend technologies and handover to the backend team.
+
+
+
+ 
+
+And Demand aggrigation we have three module
+1. ICS (inquiry customer system)
+2. IMS (inquiry management system)
+3. OMS (order m s)
+
+***In my project IMS, we had multiple components like Inquiry Listing, 
+Product & Seller Details, Create Proposal, and Proposal History. 
+
+**My main role was to take Visual Designs (VDs) from the design team 
+and implement them into a Angular web application. 
+I used Angular features like components, dataBinding, routing, pipes, directives etc
+ to build reusable and responsive UI.
+
+
+Demand Aggregation in simple terms:
+It’s a process where multiple buyers combine their purchase needs 
+for the same product or service to place a bulk order.
+
+
+
+We have product tata nexarc.Tata nexarc is a 
+Online B2B marketplace offering digital products.
+In this we have Demand aggrigation, Logistics, 
+tender and qutations etc.
+Basically we are selling TATA steel in our tata 
+nexarc plateform.
+
+Actually I got layed off in July.
+Due to some major shifts in the market the company has to downsize 
+and based on the number of factors my positions that got closed.
+**In IMS we have multiple components (Inquiry listing page, product & 
+seller details page, create proposal and proposal history etc).
+
+
+**So my major work when Design team provide us VDs
+we basically convert those VDs in web application
+with the help of frontend technologies 
+and handover to the backend team.
+
+
+we are using HTML css typescript angular in 
+frontend and the backend we are using java.
+
+
+IMS we are using Angular css and html in front end and the backend we 
+are using java.
+
+in IMS we have multiple components (Inquiry listing page, product & 
+seller details page, create proposal and proposal history etc).
+
+
+
+
+Web site : a) 	To display static or informational content 
+(e.g., blog, news, portfolio) 
+b) Simple and mostly static
+
+Web Application : a) To provide interactive functionality to users 
+(e.g., Gmail, Facebook, online banking)
+b) Complex with dynamic behavior
+
+
+
+
+
+
+
+
+
+IMS we are using Angular css and html in front end and the backend we 
+are using java.
+
+
+
+
+
+I have strong knowledge of html css and javascript, which means i can build 
+responsive user-friendly, and visually appealing websites. 
+And Interactive websites using clean and modern code.
+I am currently focusing on improving my desing sense and learning frameworks 
+like Angular to take my skills to the next level.
+
+
+
+
+
+
+
+
+
+Basically i have major worked in the IMS. In this when customer fill the inquiry form from the ICS end. 
+
+Tata nexarc is a part of the Tata group of companies and was founded in 2020.
+Tata nexarc is a Online B2B marketplace offering digital products.
+
+.
+
+Like Demand aggrigation, Logistics, tender and qutations etc.
+
+
+
+
+
+I have strong knowledge of html css and javascript, which means i can build responsive user-friendly, and visually appealing websites. 
+And Interactive websites using clean and modern code.
+I am currently focusing on improving my desing sense and learning frameworks like React to take my skills to the next level.
+
+
+
+
+
+
+
+
+
+
+
+My hobbies are fond of travelling,learning new things, playing PC games.
+
+
+
+
+
+
+
+
+Do You Have Any Questions for Me?
+
+1. if i got hired than what is my role and responsibility of this oragnization.
+2. can you talk about the company culture a bit?
+
+strength
+
+I have several strengths like
+
+1.self motivated
+2.punctuality
+3.Energetic
+4.cooperative
+
+
+Weaknesses
+
+1. I can't say no when someone asks for help
+2. public speaking
+3. straightforward
+
+
+Career goals
+
+1. short term goal: is to get a job in required company where i can utilize my skills & improve my career path.
+2. long term goal :  is to be respectable position in that oragnization.
+
+
+why should we hire you
+1. i'm hungry to learn
+2. I'm possionate about work
+
+
+why do you want to work with our company?
+
+1.because I found that my skills are matching with your requirements where i can showcase my technical skills to contribute to the company growth.
+
+
+its nearly about 35% to 45%.
+
+based on my experience and industry benchmarks 
+i'm looking at something in the range of 15 to 16 LPA.
+but in the begining you asked me to expected and i told you 16.
+
+
+What will my in-hand salary be?
+
+
+i am very happy and excited to working with [comp name].
+Thank you for giving the opportunity to work with this organization.
+
+
+
+///////////////////Company_intro////////////////////////////////////
+hello everyone
+My name is Akash sharma.
+I am from Noida itself.
+
+I am postgraduate.
+I have 3.5 years exp in ui developement.      
+    
+        i have joined 15th of nov. and currently i am working with nexarc design team with kedar goraksha.     
+I worked at c1india for 2.5 years before joining this company. 
+My hobbies are playing PC games watching movies in my free time and love to travel.
+i am very happy and excited to working with Tata nexarc.
+/////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+and
+I'm looking forward to working with you.
+
+My hobbies are playing PC games, travelling and learning new things.
+
+
+
+i Have joined as a front end chapter.
+i'm doing well
+
+
+
+
+
+
+TATA Nexaarc :--
+Tata nexarc is a part of the Tata group of companies and was founded in 2020.
+A B2B digital platform Enabling procurement of Raw Materials Across multiple Brands and Categories, Supported by credit and Logistics services.
+Tata nexarc is a Online B2B marketplace offering digital products.
+Like Demand aggrigation, Logistics, tender and qutations etc.
+
+
+Demand aggregation is the process of combining multiple individual demands for goods or services into a single, larger order to gain advantages such as:
+
+Cost savings through bulk purchasing or volume discounts
+
+Improved bargaining power with suppliers
+
+Streamlined procurement processes
+
+Reduced logistical and administrative costs
+
+
+
+
+
+
+
+Tata nexarc is a part of the Tata group of companies and was founded in 2020.
+Tata nexarc is a Online B2B marketplace offering digital products.
+Like Demand aggrigation, Logistics, tender and qutations etc.
+
+And Demand aggrigation we have three module
+1. ICS (inquiry customer system)
+2. IMS (inquiry management system)
+3. OMS (order m s)
+
+
+Basically i have major work in the IMS. In this when customer fill the inquiry form from the ICS end. 
+Then we create a inquiry for the customer. And the IMS we have multiple pages (Inquiry listing page, seller details page, create proposal and proposal history etc).
+
+
+
+
+
+
+
+
+
+
+
+
+NK8M9-MVHDM-2RD8H-XW92T-RRKJK
+
+office 2021 Professional Plus Key
+
+
+
+
+
+
+1. "this" in global scope always points to the globalObject (globalObject depends on javascript runtime env)
+2. "this" in a function depends on 2 things
+    a. strict / non strict mode (in strict mode, "this" is undefined, in non strict mode, "this substitution" takes place and "this" points to globalObject)
+    b. how the function is being invoked (if we invoke the function using the global object in strict mode, then "this" will point to that globalObject)
+3. "this" in a method always points to the object that is used to invoke the method.
+4. call, apply & bind are used to share a method with another object (hence the "this" keyword reference would also change accordingly)
+5. "this" inside arrow function refers to the enclosing lexical context
+6. "this" in DOM points to the HTML element itself on which it is being used
+
+
+
+
+
+
+
+
+1. What is Dependency Injection in Angular? 
+- DI is a design pattern where Angular automatically provides dependencies to classes instead of classes creating them manually. Angular has a built-in system that creates services once and then automatically gives these services to any component or other service that requests them in their constructor.
+
+2. What is the @Injectable() decorator used for? 
+- @Injectable() marks a class as available for dependency injection, allowing Angular to inject it into other classes.
+
+3. How do you provide a service at the root level? 
+- Use @Injectable({ providedIn: 'root' }) or add the service to AppModule's providers array.
+
+4. What is the difference between providing a service in root vs component level? 
+- Root level creates a singleton shared across the app, while component level creates a new instance for each component.
+
+5. How do you inject a service into a component? 
+- Add the service as a parameter in the component's constructor: constructor(private myService: MyService) {}
+
+6. What is an InjectionToken used for? 
+- InjectionToken is used to create tokens for injecting non-class dependencies like strings, objects, or configuration values.
+
+7. How does tree shaking work with Angular services? 
+- Services with providedIn: 'root' can be tree-shaken - unused services are automatically removed from the final bundle.
+
+8. What happens when you inject a service outside of injection context? 
+- You'll get an error because Angular can't resolve dependencies outside its injection context. Use inject() function to handle this.
+
+9. What is a hierarchical injector in Angular? 
+- Angular creates an injector tree where child injectors can access parent injector services, but not vice versa.
+
+10. What is injection context in Angular? 
+- Injection context is like a special zone where Angular can provide services. Think of it as Angular's "service delivery area" - you can only get services when you're inside this zone (like inside components or services).
+
+11. What is the difference between tight coupling and loose coupling, and how does DI help? 
+Tight coupling means classes directly create their dependencies, making code hard to test. DI creates loose coupling by injecting dependencies, making code more flexible.
+
+
+
+
+
+
+
+interview (08-07-2025)
+1.mvc architecture
+2.instant function
+3.when call 15 api and in between one is failed what happens
+4.two way data binding
+5.web site & web application difference
+Ans : 
+Web site : a) 	To display static or informational content 
+(e.g., blog, news, portfolio) 
+b) Simple and mostly static
+
+Web Application : a) To provide interactive functionality to users 
+(e.g., Gmail, Facebook, online banking)
+b) Complex with dynamic behavior
+
+6.JSON & syntax
+7.jquery version (v3.5.1)
+8.bootstrap version (v4.4.1)
+9.for & forEach function
+10.async & await in js
+
+
+
+11. handle AJAX in js
+
+
+
+
+
+function FirstNonReapting(str) {
+    const lowerStr = str.toLowerCase();
+    const charCount = {};
+    
+    for(let char of lowerStr) {
+       charCount[char] = (charCount[char] || 0) + 1;
+    }
+    
+    for (let i = 0; i < lowerStr.length; i ++) {
+        if(charCount[lowerStr[i]] ===1) {
+            return str[i];
+        }
+    }
+    return null;
+}
+
+console.log(FirstNonReapting("Akash"));
+
+
+
+
+
+
+

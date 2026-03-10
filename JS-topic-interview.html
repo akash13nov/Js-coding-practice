@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>JS Practice</title>
+</head>
+<meta charset="UTF-8" />
+<body style="background-color: black;color:#fff;">
+<h1>JS Topic wise practice</h1>
+
+<div id="main">
+	<form action="" style="display: flex;flex-direction: column;gap: 5px;max-width: 200px;">
+		<input type="text" placeholder="profile pic" />
+		<input type="text" placeholder="name" />
+		<input type="text" placeholder="occupation" />
+		<input type="text" placeholder="info" />
+		<input type="submit" />
+	</form>
+</div>
+
+<script>
+
+
+// 7 types of Functions
+
+/* 1. Function statement
+
+function xyz() {
+	console.log("Hello JS");
+}
+
+xyz();
+*/
+
+/* 2. Function expression
+const add = function(a,b) {
+	return a + b;
+}
+console.log(add(4,6));
+*/
+
+//3. Function 
+
+
+let form = document.querySelector("form");
+let inputs = document.querySelector("input");
+
+form.addEventListener("submit",function(e){
+e.preventDefault();
+console.log(inputs);
+let card = document.createElement("div");
+card.classList.add("card");
+
+console.log(card);
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</body>
+</html>
