@@ -4,11 +4,60 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Promises Practice</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #3284d5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .card {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+      }
+      .user-card {
+        width: 310px;
+        background: rgba(17, 203, 147, 0.729);
+        color: #111;
+        padding: 10px 25px;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      }
+    </style>
   </head>
   <body style="background-color: #222; color: bisque">
     <div class="container">
-      <h1>Learning Promises</h1>
+      <div class="card"></div>
     </div>
-    <script></script>
+    <script>
+      const button = document.querySelector(".button");
+      const container = document.querySelector(".card");
+      async function getData() {
+        let response = await fetch(
+          "https://dummy-json.mock.beeceptor.com/users",
+        );
+        return await response.json();
+      }
+
+      async function renderUsers() {
+        const result = await getData();
+        result.forEach((user) => {
+          let card = document.createElement("div");
+          card.className = "user-card";
+          card.innerHTML = `
+          <h2>${user.name}</h2>
+          <p>${user.email}</p>
+          <p>${user.phone}</p>
+          <p>${user.company}</p>`;
+          container.appendChild(card);
+        });
+      }
+      renderUsers();
+    </script>
   </body>
 </html>
