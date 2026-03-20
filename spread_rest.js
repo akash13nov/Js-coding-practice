@@ -56,3 +56,31 @@
 // console.log(mergeObjs);
 
 // REST
+// function addNums(...arr) {
+//   let sum = arr.reduce((acc, current) => {
+//     return acc + current;
+//   });
+//   return sum;
+// }
+// let result = addNums(1, 2, 3, 4, 5, 6);
+// console.log(result);
+
+// REST with destructruing Array
+// let arr = ["Akash", "Sonu", "Vijay", "Aman", "Anuj", "Ajit"];
+// let [first, second, ...others] = arr;
+// console.log(first);
+// console.log(second);
+// console.log(others);
+
+// REST with destructruing Objects
+let obj = {
+  name: "Akash Sharma",
+  age: 30,
+  city: "Noida",
+  desig: "UI Developer",
+};
+
+let { name, age, ...others } = obj;
+console.log(name);
+console.log(age);
+console.log(others);
