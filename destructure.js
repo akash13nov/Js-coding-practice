@@ -1,7 +1,7 @@
 //1. Object destructuring...
 
 // let obj = {
-//   name: "Akash Kumar Sharma",
+//   name: "Sonu Kumar Sharma",
 //   age: 30,
 //   desc: "UI Developer",
 //   address: {
@@ -52,7 +52,7 @@
 
 //8. Object destructuring with rest operator
 // let obj = {
-//   name: "Akash Kumar Sharma",
+//   name: "Sonu Sharma",
 //   age: 30,
 //   desc: "UI Developer",
 //   city: "Noida",
@@ -62,28 +62,44 @@
 // console.log(name, age, desc, other);
 
 //9. Nested objection...
-let obj = {
-  name: "Akash Kumar Sharma",
-  age: 30,
-  desc: "UI Developer",
-  address: {
-    city: "Noida",
-    pin: 201301,
-    arr: [1, 2, 3],
-  },
-};
+// let obj = {
+//   name: "Sonu Sharma",
+//   age: 30,
+//   desc: "UI Developer",
+//   address: {
+//     city: "Noida",
+//     pin: 201301,
+//     arr: [1, 2, 3],
+//   },
+// };
 
-let {
-  name: fullName,
-  age,
-  address: {
-    city,
-    pin: pincode,
-    arr: [a, b, c],
-  },
-} = obj;
-console.log(fullName);
-console.log(age);
-console.log(city);
-console.log(pincode);
-console.log(a, b, c);
+// let {
+//   name: fullName,
+//   age,
+//   address: {
+//     city,
+//     pin: pincode,
+//     arr: [a, b, c],
+//   },
+// } = obj;
+// console.log(fullName);
+// console.log(age);
+// console.log(city);
+// console.log(pincode);
+// console.log(a, b, c);
+
+// 10. Object destructuring with function parameters
+// let obj = {
+//   name: "Sonu Sharma",
+//   city: "Noida",
+// };
+// function greet({ name, city }) {
+//   console.log(`My name is ${name} and i am from ${city}`);
+// }
+
+// greet(obj);
+
+// Q.
+let arr = [10, 20, 30];
+let copyArr = { ...arr };
+console.log(copyArr);
